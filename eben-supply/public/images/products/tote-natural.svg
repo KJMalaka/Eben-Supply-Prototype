@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" fill="#F8F6F3"/>
+  <ellipse cx="250" cy="418" rx="128" ry="12" fill="rgba(0,0,0,0.07)"/>
+  <!-- Left handle -->
+  <path d="M177,185 C174,138 182,112 198,109 C214,106 223,128 223,160 L223,185" fill="none" stroke="#B09070" stroke-width="17" stroke-linecap="round"/>
+  <path d="M177,185 C174,138 182,112 198,109 C214,106 223,128 223,160 L223,185" fill="none" stroke="#D4B896" stroke-width="11" stroke-linecap="round"/>
+  <!-- Right handle -->
+  <path d="M323,185 C326,138 318,112 302,109 C286,106 277,128 277,160 L277,185" fill="none" stroke="#B09070" stroke-width="17" stroke-linecap="round"/>
+  <path d="M323,185 C326,138 318,112 302,109 C286,106 277,128 277,160 L277,185" fill="none" stroke="#D4B896" stroke-width="11" stroke-linecap="round"/>
+  <!-- Bag body -->
+  <rect x="128" y="180" width="244" height="228" rx="7" fill="#D4B896"/>
+  <!-- Top cuff -->
+  <rect x="128" y="180" width="244" height="34" rx="7" fill="#C4A886"/>
+  <rect x="128" y="204" width="244" height="10" fill="#C4A886"/>
+  <!-- Weave texture hint -->
+  <line x1="128" y1="230" x2="372" y2="230" stroke="#C4A886" stroke-width="0.5" opacity="0.4"/>
+  <line x1="128" y1="260" x2="372" y2="260" stroke="#C4A886" stroke-width="0.5" opacity="0.4"/>
+  <line x1="128" y1="290" x2="372" y2="290" stroke="#C4A886" stroke-width="0.5" opacity="0.4"/>
+  <line x1="128" y1="320" x2="372" y2="320" stroke="#C4A886" stroke-width="0.5" opacity="0.4"/>
+  <line x1="128" y1="350" x2="372" y2="350" stroke="#C4A886" stroke-width="0.5" opacity="0.4"/>
+  <!-- Screen print branding -->
+  <rect x="194" y="284" width="112" height="1.5" fill="#5A4030" opacity="0.35"/>
+  <text x="250" y="312" text-anchor="middle" font-size="22" font-weight="900" font-family="Arial Black,Arial,sans-serif" fill="#5A4030" letter-spacing="3">EBEN SUPPLY</text>
+  <text x="250" y="333" text-anchor="middle" font-size="9" font-family="Arial,sans-serif" fill="#5A4030" letter-spacing="5" opacity="0.65">WOODSTOCK · CT</text>
+  <rect x="194" y="343" width="112" height="1.5" fill="#5A4030" opacity="0.35"/>
+  <!-- Rivets -->
+  <circle cx="177" cy="187" r="5" fill="#B09070" stroke="#9A8060" stroke-width="1"/>
+  <circle cx="223" cy="187" r="5" fill="#B09070" stroke="#9A8060" stroke-width="1"/>
+  <circle cx="277" cy="187" r="5" fill="#B09070" stroke="#9A8060" stroke-width="1"/>
+  <circle cx="323" cy="187" r="5" fill="#B09070" stroke="#9A8060" stroke-width="1"/>
+  <!-- Bottom seam -->
+  <line x1="144" y1="396" x2="356" y2="396" stroke="#B09070" stroke-width="2" opacity="0.4"/>
+</svg>

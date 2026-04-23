@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" fill="#F8F6F3"/>
+  <ellipse cx="250" cy="392" rx="138" ry="13" fill="rgba(0,0,0,0.07)"/>
+  <!-- Crown dome -->
+  <path d="M146,272 C146,192 184,144 250,142 C316,144 354,192 354,272 Z" fill="#1E3A5F"/>
+  <!-- Crown highlight -->
+  <path d="M186,172 C200,156 228,147 250,147 C260,148 270,150 280,155" fill="none" stroke="#fff" stroke-width="2" opacity="0.1"/>
+  <!-- Panel seams -->
+  <line x1="250" y1="142" x2="250" y2="272" stroke="#162E4D" stroke-width="1.5" opacity="0.5"/>
+  <line x1="198" y1="148" x2="178" y2="272" stroke="#162E4D" stroke-width="1" opacity="0.35"/>
+  <line x1="302" y1="148" x2="322" y2="272" stroke="#162E4D" stroke-width="1" opacity="0.35"/>
+  <!-- Top button -->
+  <circle cx="250" cy="144" r="9" fill="#162E4D" stroke="#0E2238" stroke-width="1"/>
+  <circle cx="250" cy="144" r="4" fill="#1E3A5F"/>
+  <!-- Sweatband -->
+  <path d="M146,263 L354,263 L354,272 C354,274 316,280 250,280 C184,280 146,274 146,272 Z" fill="#0E2238" opacity="0.6"/>
+  <!-- Brim/Bill -->
+  <path d="M130,270 C168,258 250,255 370,270 L384,298 C344,312 300,320 250,320 C200,320 156,312 116,298 Z" fill="#1E3A5F"/>
+  <!-- Brim top edge line -->
+  <path d="M130,270 C168,258 250,255 370,270" fill="none" stroke="#162E4D" stroke-width="2" opacity="0.5"/>
+  <!-- ES embroidery – gold thread effect -->
+  <text x="250" y="236" text-anchor="middle" font-size="34" font-weight="900" font-family="Arial Black,Arial,sans-serif" fill="#D4C7B0" letter-spacing="2" opacity="0.95">ES</text>
+  <text x="250" y="256" text-anchor="middle" font-size="8.5" font-family="Arial,sans-serif" fill="#D4C7B0" letter-spacing="4" opacity="0.6">EBEN SUPPLY</text>
+  <!-- Label strap -->
+  <rect x="226" y="308" width="48" height="10" rx="2" fill="#162E4D" stroke="#0E2238" stroke-width="0.5"/>
+  <line x1="250" y1="308" x2="250" y2="318" stroke="#0E2238" stroke-width="0.5"/>
+</svg>

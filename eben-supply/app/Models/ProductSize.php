@@ -1,0 +1,20 @@
+<?php
+// PRT362S — Eben Supply | Group KN3
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class ProductSize extends Model
+{
+    protected $fillable = [
+        'product_id',
+        'size',
+        'stock_quantity',
+    ];
+
+    public function product()
+    {
+        return $this->belongsTo(Product::class);
+    }
+}

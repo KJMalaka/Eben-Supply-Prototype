@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" fill="#F8F6F3"/>
+  <ellipse cx="250" cy="406" rx="130" ry="13" fill="rgba(0,0,0,0.07)"/>
+  <!-- T-shirt body -->
+  <path d="M188,158 C208,128 292,128 312,158 L388,140 L430,186 L416,234 L357,217 L357,382 L143,382 L143,217 L84,234 L70,186 L112,140 Z" fill="#C2A882"/>
+  <!-- Neck hole -->
+  <path d="M200,162 C216,136 284,136 300,162 Z" fill="#F8F6F3"/>
+  <!-- Collar stitch -->
+  <path d="M200,162 C216,138 284,138 300,162" fill="none" stroke="#A8906A" stroke-width="1.5" opacity="0.4"/>
+  <!-- Shoulder seams -->
+  <line x1="143" y1="217" x2="84" y2="234" stroke="#A8906A" stroke-width="1" opacity="0.25"/>
+  <line x1="357" y1="217" x2="416" y2="234" stroke="#A8906A" stroke-width="1" opacity="0.25"/>
+  <!-- Side seams -->
+  <line x1="143" y1="217" x2="143" y2="382" stroke="#A8906A" stroke-width="1" opacity="0.2"/>
+  <line x1="357" y1="217" x2="357" y2="382" stroke="#A8906A" stroke-width="1" opacity="0.2"/>
+  <!-- Chest graphic -->
+  <rect x="202" y="246" width="96" height="1.5" fill="#3D2E1E" opacity="0.35"/>
+  <text x="250" y="272" text-anchor="middle" font-size="25" font-weight="900" font-family="Arial Black,Arial,sans-serif" fill="#3D2E1E" letter-spacing="4">EBEN SUPPLY</text>
+  <text x="250" y="294" text-anchor="middle" font-size="10" font-family="Arial,sans-serif" fill="#3D2E1E" letter-spacing="6" opacity="0.7">WOODSTOCK · CT</text>
+  <rect x="202" y="304" width="96" height="1.5" fill="#3D2E1E" opacity="0.35"/>
+  <!-- Tag label -->
+  <rect x="238" y="370" width="24" height="10" rx="1" fill="#A8906A" stroke="#8A7250" stroke-width="0.5"/>
+  <line x1="250" y1="370" x2="250" y2="380" stroke="#8A7250" stroke-width="0.5"/>
+</svg>

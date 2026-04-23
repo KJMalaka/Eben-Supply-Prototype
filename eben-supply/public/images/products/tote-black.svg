@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" fill="#F8F6F3"/>
+  <ellipse cx="250" cy="418" rx="128" ry="12" fill="rgba(0,0,0,0.07)"/>
+  <!-- Left handle -->
+  <path d="M177,185 C174,138 182,112 198,109 C214,106 223,128 223,160 L223,185" fill="none" stroke="#0a0a0a" stroke-width="17" stroke-linecap="round"/>
+  <path d="M177,185 C174,138 182,112 198,109 C214,106 223,128 223,160 L223,185" fill="none" stroke="#1A1A1A" stroke-width="11" stroke-linecap="round"/>
+  <!-- Right handle -->
+  <path d="M323,185 C326,138 318,112 302,109 C286,106 277,128 277,160 L277,185" fill="none" stroke="#0a0a0a" stroke-width="17" stroke-linecap="round"/>
+  <path d="M323,185 C326,138 318,112 302,109 C286,106 277,128 277,160 L277,185" fill="none" stroke="#1A1A1A" stroke-width="11" stroke-linecap="round"/>
+  <!-- Bag body -->
+  <rect x="128" y="180" width="244" height="228" rx="7" fill="#1A1A1A"/>
+  <!-- Top cuff -->
+  <rect x="128" y="180" width="244" height="34" rx="7" fill="#111111"/>
+  <rect x="128" y="204" width="244" height="10" fill="#111111"/>
+  <!-- Screen print branding -->
+  <rect x="194" y="284" width="112" height="1.5" fill="#fff" opacity="0.35"/>
+  <text x="250" y="312" text-anchor="middle" font-size="22" font-weight="900" font-family="Arial Black,Arial,sans-serif" fill="#FFFFFF" letter-spacing="3">EBEN SUPPLY</text>
+  <text x="250" y="333" text-anchor="middle" font-size="9" font-family="Arial,sans-serif" fill="#FFFFFF" letter-spacing="5" opacity="0.55">WOODSTOCK · CT</text>
+  <rect x="194" y="343" width="112" height="1.5" fill="#fff" opacity="0.35"/>
+  <!-- Rivets -->
+  <circle cx="177" cy="187" r="5" fill="#444" stroke="#333" stroke-width="1"/>
+  <circle cx="223" cy="187" r="5" fill="#444" stroke="#333" stroke-width="1"/>
+  <circle cx="277" cy="187" r="5" fill="#444" stroke="#333" stroke-width="1"/>
+  <circle cx="323" cy="187" r="5" fill="#444" stroke="#333" stroke-width="1"/>
+  <!-- Bottom seam -->
+  <line x1="144" y1="396" x2="356" y2="396" stroke="#333" stroke-width="2" opacity="0.5"/>
+</svg>
